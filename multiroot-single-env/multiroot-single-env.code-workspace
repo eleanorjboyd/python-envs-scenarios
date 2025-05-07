@@ -1,0 +1,18 @@
+{
+  "folders": [
+    { "path": "workspace1" },
+    { "path": "workspace2" },
+    { "path": "workspace3" }
+  ],
+  "settings": {
+    "python-envs.defaultEnvManager": "ms-python.python:venv",
+    "python-envs.pythonProjects": [
+      {
+        "path": "src",
+        "envManager": "ms-python.python:venv",
+        "packageManager": "ms-python.python:pip",
+        "workspace": "workspace1"
+      }
+    ]
+  }
+}
