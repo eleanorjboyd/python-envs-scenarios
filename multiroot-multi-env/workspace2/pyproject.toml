@@ -1,0 +1,11 @@
+[project]
+name = "workspace2"
+version = "0.1.0"
+description = "A multiroot project with a single environment (workspace2)"
+readme = "README.md"
+requires-python = ">=3.8"
+dependencies = []
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"

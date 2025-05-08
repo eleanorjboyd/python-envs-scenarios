@@ -1,11 +1,8 @@
 [project]
-name = "myproject"
+name = "multiroot-single-env"
 version = "0.1.0"
-description = "Add your description here"
+description = "A multiroot project with a single environment"
 readme = "README.md"
-authors = [
-    { name = "eleanorjboyd", email = "26030610+eleanorjboyd@users.noreply.github.com" }
-]
 requires-python = ">=3.8"
 dependencies = []
 
